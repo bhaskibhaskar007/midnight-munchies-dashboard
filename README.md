@@ -3,7 +3,7 @@
 An interactive Streamlit dashboard that analyzes **student late-night snacking habits** using survey data.
 
 ## 🔗 Live Demo
-👉 https://midnight-munchies-dashboard-fsqe9zdavodvpmf9hbcrw6.streamlit.app/
+👉 https://midnight-munchies-dashboard-bhaskar.streamlit.app/
 
 ---
 
